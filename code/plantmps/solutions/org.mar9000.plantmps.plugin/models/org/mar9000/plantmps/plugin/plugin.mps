@@ -2779,7 +2779,7 @@
     </node>
   </node>
   <node concept="sE7Ow" id="7G9sWkHsxMP">
-    <property role="TrG5h" value="VisualizaActionParametrized" />
+    <property role="TrG5h" value="VisualizeActionParametrized" />
     <property role="2uzpH1" value="Visualize" />
     <node concept="1DS2jV" id="7G9sWkHsxR5" role="1NuT2Z">
       <property role="TrG5h" value="project" />
@@ -2993,7 +2993,7 @@
                     <node concept="3clFbS" id="7G9sWkHsB6e" role="2LFqv$">
                       <node concept="2JFkCU" id="7G9sWkHsBZc" role="3cqZAp">
                         <node concept="tCFHf" id="7G9sWkHsH1Y" role="2JFLmv">
-                          <ref role="tCJdB" node="7G9sWkHsxMP" resolve="VisualizaActionParametrized" />
+                          <ref role="tCJdB" node="7G9sWkHsxMP" resolve="VisualizeActionParametrized" />
                           <node concept="AH0OO" id="7G9sWkHsPCm" role="2J__8u">
                             <node concept="37vLTw" id="7G9sWkHsPD2" role="AHEQo">
                               <ref role="3cqZAo" node="7G9sWkHsB6f" resolve="i" />

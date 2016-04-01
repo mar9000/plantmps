@@ -2,6 +2,8 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/org.mar9000.plantmps.langVisualization/org.mar9000.plantmps.langVisualization.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/org.mar9000.plantmps.langVisualization/sandbox/org.mar9000.plantmps.langVisualization.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/org.mar9000.plantmps.sandboxLanguage/org.mar9000.plantmps.sandboxLanguage.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/org.mar9000.plantmps.sandboxLanguage/sandbox/org.mar9000.plantmps.sandboxLanguage.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/org.mar9000.plantmps/org.mar9000.plantmps.mpl" folder="" />
